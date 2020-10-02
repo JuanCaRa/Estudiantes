@@ -1,5 +1,5 @@
-def datos(nombre, edad):
-    A = [nombre, edad]
+def datos(name, edad):
+    A = [name, edad]
     return A
 
 data = datos("Juan", "Mompos")
